@@ -41,8 +41,8 @@ Mobile app developer with 7 years of experience in native and cross platform app
 <br />
 <br />
 <br />
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand00&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)
- -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand00&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)
+
 
 
 [linkedin]: https://www.linkedin.com/in/anandprakash3/
